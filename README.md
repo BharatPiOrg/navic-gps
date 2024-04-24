@@ -73,6 +73,9 @@ superior signal acquisition and TTFF speed.
 
 ![Alt text](https://i0.wp.com/bharatpi.net/wp-content/uploads/2024/02/Bharat-Pi-NavIC-Module-Pinout-R1.png?fit=2122%2C1490&ssl=1)
 
+![image](https://github.com/BharatPiOrg/navic-gps/assets/106612001/ff760ca5-71ef-4da5-8a36-5b60e5994c6c)
+
+
 ## NavIC Applications
 
 Bharat Pi NavIC module can be easily mounted on Bharat Pi 4G boards for building live 
@@ -82,6 +85,9 @@ sim card from Airtel, Jio, Vodaphone, BSNL can be used for cloud sync and live l
 tracking.
 
 ![Alt text](https://i0.wp.com/bharatpi.net/wp-content/uploads/2023/12/IMG20240104144244-scaled.jpg?fit=2560%2C1920&ssl=1)
+
+
+
 
 
 
